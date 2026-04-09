@@ -1,11 +1,7 @@
 # courses-website
 UI/UX prototyupe fpre courses platform
 
-## Business Problem
-There is a problem for students who want to gain and develop their skills and are looking for courses that are suitable for them. They suffer from the large number of course sources and whether they are reliable or unreliable ,and this increases student distraction
-
-## Business sloution
-The solution for these students who are looking for courses is to provide a website that collects for them all the courses related to Python, Excel, and website design that are highly rated, at a reasonable cost, and with high trust, so that the student can search for courses without worrying about whether they are wasting their time or not and without being distracted by the abundance of sources
-
-## Target users
-Students who want to acquire skills in technological tools such as Excel, Python and Web Application
+## Project Description
+We have created a website called "CourseHub" that collects courses related to Excel, website applications, and Python. This website helps students who suffer from the dispersion of many sources of courses to develop their skills and gain experience without any dispersion or loss.
+The site collects the best-rated courses that are inexpensive, and we have also provided free courses for those who suffer from low income.
+Our website cares that the student can gain experience without having to pay for it and without wasting their time searching for courses in many sources.
